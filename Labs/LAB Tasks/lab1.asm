@@ -1,0 +1,10 @@
+org 100h
+mov ax,10
+mov bx,5
+add ax,bx
+sub ax,3
+inc ax
+dec bx
+cmp ax,bx
+mov ah,4ch
+int 21h
