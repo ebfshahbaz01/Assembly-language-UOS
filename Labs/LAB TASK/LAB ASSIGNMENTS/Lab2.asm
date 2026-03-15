@@ -13,7 +13,7 @@ mov ah,4ch
 int 21h
 
 
-nmestr db 'Assalam o alikum$'
+nmestr db 'SHAHBAZ ALI $'
 endp:
 
 mov ah,4ch
