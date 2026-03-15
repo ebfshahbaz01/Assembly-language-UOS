@@ -9,4 +9,4 @@ This repository manage my all the record of Assembly language subject which I am
 </ul>
 
 # This repo is licensed to Mr. Shahbaz Ali
-Note: Only his course instructor <h2>Mr. Musab Qazi</h2> can make any kind of changes if he wants to change
+Note: Only his course instructor <h3>Mr. Musab Qazi</h3> can make any kind of changes if he wants to change
