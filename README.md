@@ -8,5 +8,5 @@ This repository manage my all the record of Assembly language subject which I am
   <li>Lab Assignments</li>
 </ul>
 
-#This repo is licensed to Mr.Shahbaz Ali
-#Only his course instructor Mr. Musab Qazi can make any kind of changes if he wants to change
+# This repo is licensed to Mr.Shahbaz Ali
+# Only his course instructor Mr. Musab Qazi can make any kind of changes if he wants to change
